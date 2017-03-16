@@ -94,4 +94,7 @@
                     <url>http://dl.bintray.com/deluan/maven</url>
                 </repository>
         </repositories>
+	<build>
+        	<finalName>sample</finalName>
+        </build>
 </project>
